@@ -1,0 +1,45 @@
+{
+  "name": "react-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@a11y/focus-trap": "^1.0.2",
+    "@clr/city": "^1.1.0",
+    "@clr/core": "3.0.0-next.6",
+    "@webcomponents/shadycss": "1.9.1",
+    "@webcomponents/webcomponentsjs": "^2.2.10",
+    "core-js": "^2.6.5",
+    "lit-element": "^2.2.1",
+    "lithium-ui": "0.0.7",
+    "prismjs": "^1.17.1",
+    "ramda": "^0.26.1",
+    "react": "^16.9.0",
+    "react-app-polyfill": "^1.0.2",
+    "react-dom": "^16.9.0",
+    "react-scripts": "3.1.1",
+    "resize-observer-polyfill": "^1.5.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all",
+      "ie 11"
+    ],
+    "development": [
+      "last 2 chrome versions",
+      "last 2 firefox versions",
+      "last 2 safari versions",
+      "ie 11"
+    ]
+  }
+}
