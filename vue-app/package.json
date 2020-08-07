@@ -16,7 +16,7 @@
     "core-js": "^2.6.9",
     "lit-element": "^2.2.1",
     "lithium-ui": "0.0.7",
-    "prismjs": "^1.17.1",
+    "prismjs": "^1.21.0",
     "ramda": "^0.26.1",
     "regenerator-runtime": "^0.13.3",
     "resize-observer-polyfill": "^1.5.1",
