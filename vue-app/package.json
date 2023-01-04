@@ -24,9 +24,9 @@
   },
   "devDependencies": {
     "@babel/preset-env": "^7.6.0",
-    "@vue/cli-plugin-babel": "^3.11.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
     "@vue/cli-plugin-eslint": "^3.11.0",
-    "@vue/cli-service": "^3.11.0",
+    "@vue/cli-service": "^5.0.8",
     "@vue/web-component-wrapper": "^1.2.0",
     "@webcomponents/shadycss": "1.9.1",
     "@webcomponents/webcomponentsjs": "^2.2.10",
